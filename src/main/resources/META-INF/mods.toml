@@ -6,7 +6,7 @@ license="All rights reserved" #mandatory https://choosealicense.com/
 issueTrackerURL="http://my.issue.tracker/" #optional
  
 [[mods]] #mandatory
-modId="edentree" #mandatory
+modId="eden1998tree" #mandatory
 version="1.0" #mandatory
 displayName="ExampleMod" #mandatory
 updateJSONURL="http://myurl.me/" #optional

@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "eden1998tree:blocks/example_block"
+	}
+}
